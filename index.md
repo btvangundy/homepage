@@ -4,6 +4,18 @@ You can use the [editor on GitHub](https://github.com/btvangundy/homepage/edit/g
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Projects
+| Client  | Project | Project Portal | Issues Log |
+| ------------- | ------------- | ------------- | ------------- |
+| CRVN_NC | Domain Strategy & Roadmapping | TBD | TBD |
+| KTCH_CD | Oncology Implementation | TBD | TBD |
+| NRTH_GA | Domain Strategy & Roadmapping | TBD | TBD |
+| NRTH_GA | Ambulatory Implementation  | TBD | TBD |
+| NRTH_GA | Cardiovascular Imaging | TBD | TBD |
+| NRTH_GA | Item Master Consolidation | TBD | TBD |
+| NRTH_GA | Oncology Implementation | TBD | TBD |
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
