@@ -5,15 +5,15 @@ You can use the [editor on GitHub](https://github.com/btvangundy/homepage/edit/g
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Projects
-| Client | Project | Project Portal | Issues Log |
+| Client | Scrum Board | Project | Project Portal | Issues Log |
 | ------------- | ------------- | ------------- | ------------- |
-| CRVN_NC | Domain Strategy & Roadmapping | TBD | TBD |
-| KTCH_CD | Oncology Implementation | TBD | TBD |
-| NRTH_GA | Domain Strategy & Roadmapping | TBD | TBD |
-| NRTH_GA | Ambulatory Implementation  | TBD | TBD |
-| NRTH_GA | Cardiovascular Imaging | TBD | TBD |
-| NRTH_GA | Item Master Consolidation | TBD | TBD |
-| NRTH_GA | Oncology Implementation | TBD | TBD |
+| CRVN_NC | Here | Domain Strategy & Roadmapping | TBD | TBD |
+| KTCH_CD | Here | Oncology Implementation | TBD | TBD |
+| NRTH_GA | Here | Domain Strategy & Roadmapping | TBD | TBD |
+| NRTH_GA | Here | Ambulatory Implementation  | TBD | TBD |
+| NRTH_GA | Here | Cardiovascular Imaging | TBD | TBD |
+| NRTH_GA | Here | Item Master Consolidation | TBD | TBD |
+| NRTH_GA | Here | Oncology Implementation | TBD | TBD |
 
 
 ### Markdown
