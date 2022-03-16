@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/btvangundy/homepage/edit/g
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Projects
+
 | Client | Scrum Board | Project | Project Portal | Issues Log |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CRVN_NC | Here | Domain Strategy & Roadmapping | TBD | TBD |
