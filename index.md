@@ -6,14 +6,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects
 
-| Client | Scrum Board | Project | Project Portal | Issues Log |
+| Client | Asana  | Portal URL | Issues Log  | PECAs  |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CRVN_NC  | Here  | Domain Strategy & Roadmapping  | TBD  | TBD  |
 | KTCH_CD  | Here  | Oncology Implementation | TBD  | TBD  |
 | NRTH_GA  | Here  | Domain Strategy & Roadmapping  | TBD  | TBD  |
 | NRTH_GA  | Here  | Ambulatory Implementation  | TBD  | TBD  |
 | NRTH_GA  | Here  | Cardiovascular Imaging  | TBD  | TBD  |
-| NRTH_GA  | Here  | Item Master Consolidation  | TBD  | TBD  |
+| NRTH_GA  | Here  | Item Master Consolidation  | TBD  | [Here](https://methodm.cerner.com/client/2286/PJ112375/Project%20Documents/Forms/AllItems.aspx?RootFolder=%2Fclient%2F2286%2FPJ112375%2FProject%20Documents%2FProject%20Management%2FPECAs&FolderCTID=0x012000B754CE891E363446BB482C9C9B3A399B&View=%7B7B9372B6%2DE8B0%2D4E92%2DAAB6%2DFB0D4B4627FD%7D)   |
 | NRTH_GA  | Here  | Oncology Implementation  | TBD  | TBD  |
 
 ### Markdown
