@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Projects
 
-| ** Client | Dashboard  | Project Portal URL | Issues Log  | PECAs  | Cutover  |
+| **Current Client | Dashboard  | Project Portal URL | Issues Log  | PECAs  | Cutover**  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | CRVN_NC  | Here  | Domain Strategy & Roadmapping  | TBD  | TBD  | TBD  | 
 | KTCH_CD  | Here  | Oncology Implementation | TBD  | TBD  | TBD  |
